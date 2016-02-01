@@ -1,0 +1,23 @@
+{
+  "name": "scampi",
+  "version": "0.1.0",
+  "description": "A small utility library that handles HTML (un)escaping",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heiligster/scampi.git"
+  },
+  "author": "Philipp Müller <heiligster@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heiligster/scampi/issues"
+  },
+  "homepage": "https://github.com/heiligster/scampi#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
